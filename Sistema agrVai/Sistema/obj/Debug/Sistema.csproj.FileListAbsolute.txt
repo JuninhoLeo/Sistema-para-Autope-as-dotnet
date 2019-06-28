@@ -1,0 +1,78 @@
+C:\Users\JrJos\Desktop\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\JrJos\Desktop\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\JrJos\Desktop\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\JrJos\Desktop\Sistema\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\JrJos\Desktop\Sistema\Sistema\obj\Debug\Sistema.Categoria.resources
+C:\Users\JrJos\Desktop\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\JrJos\Desktop\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\JrJos\Desktop\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\JrJos\Desktop\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\JrJos\Desktop\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.exe
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.pdb
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Sistema.exe
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Sistema.pdb
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.frmCliente.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.frmProduto.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.FrmMenu.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.frmVenda.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.frmCadastrado.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.frmListProd.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.frmRelProdutos.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.frmRelVendas.resources
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JrJos\Desktop\Sistema agrVai\Sistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll

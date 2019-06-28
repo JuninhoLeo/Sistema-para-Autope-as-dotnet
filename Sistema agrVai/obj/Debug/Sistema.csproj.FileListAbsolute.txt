@@ -1,0 +1,10 @@
+C:\Users\JrJos\Desktop\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\JrJos\Desktop\Sistema\bin\Debug\Sistema.exe
+C:\Users\JrJos\Desktop\Sistema\bin\Debug\Sistema.pdb
+C:\Users\JrJos\Desktop\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\JrJos\Desktop\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\JrJos\Desktop\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\JrJos\Desktop\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\JrJos\Desktop\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\JrJos\Desktop\Sistema\obj\Debug\Sistema.exe
+C:\Users\JrJos\Desktop\Sistema\obj\Debug\Sistema.pdb
