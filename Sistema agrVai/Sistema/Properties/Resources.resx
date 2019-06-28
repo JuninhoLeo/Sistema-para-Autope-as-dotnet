@@ -118,22 +118,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Save_icon-icons.com_73702" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Save_icon-icons.com_73702.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="refresh-file_icon-icons.com_69963" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\refresh-file_icon-icons.com_69963.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="new_folder_13775" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\new_folder_13775.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1486504830-delete-dustbin-empty-recycle-recycling-remove-trash_81361" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1486504830-delete-dustbin-empty-recycle-recycling-remove-trash_81361.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="generatetables_ok_home_out_edit_generar_1491" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\generatetables_ok_home_out_edit_generar_1491.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="new_add_insert_file_139481" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_insert_file_139481.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f98c7489520de590c040ea5db831ea04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f98c7489520de590c040ea5db831ea04.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="folder_delete_256_icon-icons.com_75999" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\folder_delete_256_icon-icons.com_75999.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="recycle_recyclebin_full_delete_trash_1772" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recycle_recyclebin_full_delete_trash_1772.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new_add_insert_file_13948" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_insert_file_13948.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new_folder_13775" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_folder_13775.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new_add_user_167341" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_user_167341.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edit_icon-icons.com_66118" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edit_icon-icons.com_66118.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new_add_user_16734 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_user_16734 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cancel_icon-icons.com_73703" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cancel_icon-icons.com_73703.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="generatetables_ok_home_out_edit_generar_1491" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\generatetables_ok_home_out_edit_generar_1491.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new_add_user_16734" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_user_16734.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delete_delete_exit_1577" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete_delete_exit_1577.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="add_insert_document_13988" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\add_insert_document_13988.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="exit_closethesession_close_6317" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\exit_closethesession_close_6317.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="f98c7489520de590c040ea5db831ea04" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f98c7489520de590c040ea5db831ea04.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="new_add_insert_file_139482" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_insert_file_139482.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_icon-icons.com_73702" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save_icon-icons.com_73702.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new_add_insert_file_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_insert_file_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
