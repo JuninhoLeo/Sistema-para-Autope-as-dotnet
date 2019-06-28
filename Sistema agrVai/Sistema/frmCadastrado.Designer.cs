@@ -139,10 +139,11 @@
             // 
             // btnFiltrar
             // 
+            this.btnFiltrar.BackgroundImage = global::Sistema.Properties.Resources.search_window_filter_find_6168;
             this.btnFiltrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFiltrar.Location = new System.Drawing.Point(59, 170);
+            this.btnFiltrar.Location = new System.Drawing.Point(40, 176);
             this.btnFiltrar.Name = "btnFiltrar";
-            this.btnFiltrar.Size = new System.Drawing.Size(75, 23);
+            this.btnFiltrar.Size = new System.Drawing.Size(131, 124);
             this.btnFiltrar.TabIndex = 5;
             this.btnFiltrar.Text = "&Filtrar";
             this.btnFiltrar.UseVisualStyleBackColor = true;
@@ -180,7 +181,7 @@
             this.gpbFiltrar.Controls.Add(this.rdbAlfabetico);
             this.gpbFiltrar.Location = new System.Drawing.Point(12, 58);
             this.gpbFiltrar.Name = "gpbFiltrar";
-            this.gpbFiltrar.Size = new System.Drawing.Size(204, 212);
+            this.gpbFiltrar.Size = new System.Drawing.Size(204, 319);
             this.gpbFiltrar.TabIndex = 4;
             this.gpbFiltrar.TabStop = false;
             // 

@@ -157,9 +157,10 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(746, 247);
+            this.btnUpdate.BackgroundImage = global::Sistema.Properties.Resources.new_add_insert_file_1;
+            this.btnUpdate.Location = new System.Drawing.Point(762, 222);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(106, 29);
+            this.btnUpdate.Size = new System.Drawing.Size(65, 69);
             this.btnUpdate.TabIndex = 6;
             this.btnUpdate.Text = "&Atualizar";
             this.btnUpdate.UseVisualStyleBackColor = true;
@@ -167,9 +168,10 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(883, 247);
+            this.btnDelete.BackgroundImage = global::Sistema.Properties.Resources.recycle_recyclebin_full_delete_trash_1772;
+            this.btnDelete.Location = new System.Drawing.Point(853, 222);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(106, 29);
+            this.btnDelete.Size = new System.Drawing.Size(65, 69);
             this.btnDelete.TabIndex = 7;
             this.btnDelete.Text = "&Excluir";
             this.btnDelete.UseVisualStyleBackColor = true;

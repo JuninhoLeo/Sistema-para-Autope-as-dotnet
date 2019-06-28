@@ -136,6 +136,9 @@
   <data name="recycle_recyclebin_full_delete_trash_1772" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\recycle_recyclebin_full_delete_trash_1772.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="new_add_insert_file_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new_add_insert_file_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="new_add_insert_file_13948" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\new_add_insert_file_13948.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -175,7 +178,7 @@
   <data name="Save_icon-icons.com_73702" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Save_icon-icons.com_73702.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="new_add_insert_file_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\new_add_insert_file_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="search_window_filter_find_6168" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search_window_filter_find_6168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

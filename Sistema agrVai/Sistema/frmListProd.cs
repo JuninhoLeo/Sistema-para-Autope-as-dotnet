@@ -114,7 +114,6 @@ namespace Sistema
             txtDescricao.Text = dgvListaProd.SelectedRows[0].Cells["desc_produto"].Value.ToString();
             txtModelo.Text = dgvListaProd.SelectedRows[0].Cells["Modelo"].Value.ToString();
             txtAno.Text = dgvListaProd.SelectedRows[0].Cells["Ano"].Value.ToString();
-            cmbQtde.Text = dgvListaProd.SelectedRows[0].Cells["Qtde"].Value.ToString();
             txtValor.Text = dgvListaProd.SelectedRows[0].Cells["Valor"].Value.ToString();
         }
 

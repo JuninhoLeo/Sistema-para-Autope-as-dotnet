@@ -217,6 +217,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\f98c7489520de590c040ea5db831ea04.jpg" />
+    <None Include="Resources\add_insert_document_13988.png" />
+    <None Include="Resources\new_add_user_16734.png" />
+    <None Include="Resources\1486504830-delete-dustbin-empty-recycle-recycling-remove-trash_81361.png" />
+    <None Include="Resources\delete_delete_exit_1577.png" />
+    <None Include="Resources\refresh-file_icon-icons.com_69963.png" />
+    <None Include="Resources\recycle_recyclebin_full_delete_trash_1772.png" />
+    <None Include="Resources\edit_icon-icons.com_66118.png" />
+    <None Include="Resources\Cancel_icon-icons.com_73703.png" />
+    <None Include="Resources\new_add_user_167341.png" />
+    <None Include="Resources\new_add_user_16734 %281%29.png" />
+    <None Include="Resources\new_add_insert_file_13948.png" />
+    <None Include="Resources\new_add_insert_file_139481.png" />
+    <None Include="Resources\new_add_insert_file_139482.png" />
+    <None Include="Resources\new_add_insert_file_1.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

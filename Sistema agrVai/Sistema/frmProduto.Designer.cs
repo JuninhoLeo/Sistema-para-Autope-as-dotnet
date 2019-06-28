@@ -216,10 +216,11 @@
             // 
             // btnSalvar
             // 
+            this.btnSalvar.BackgroundImage = global::Sistema.Properties.Resources.Save_icon_icons_com_73702;
             this.btnSalvar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSalvar.Location = new System.Drawing.Point(351, 429);
+            this.btnSalvar.Location = new System.Drawing.Point(307, 375);
             this.btnSalvar.Name = "btnSalvar";
-            this.btnSalvar.Size = new System.Drawing.Size(97, 32);
+            this.btnSalvar.Size = new System.Drawing.Size(141, 124);
             this.btnSalvar.TabIndex = 9;
             this.btnSalvar.Text = "&Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
@@ -227,10 +228,11 @@
             // 
             // btnCancalar
             // 
+            this.btnCancalar.BackgroundImage = global::Sistema.Properties.Resources.folder_delete_256_icon_icons_com_75999;
             this.btnCancalar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCancalar.Location = new System.Drawing.Point(513, 429);
+            this.btnCancalar.Location = new System.Drawing.Point(469, 375);
             this.btnCancalar.Name = "btnCancalar";
-            this.btnCancalar.Size = new System.Drawing.Size(97, 32);
+            this.btnCancalar.Size = new System.Drawing.Size(141, 124);
             this.btnCancalar.TabIndex = 13;
             this.btnCancalar.Text = "&Cancelar";
             this.btnCancalar.UseVisualStyleBackColor = true;
@@ -238,10 +240,11 @@
             // 
             // btnNovo
             // 
+            this.btnNovo.BackgroundImage = global::Sistema.Properties.Resources.new_folder_13775;
             this.btnNovo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNovo.Location = new System.Drawing.Point(189, 429);
+            this.btnNovo.Location = new System.Drawing.Point(145, 375);
             this.btnNovo.Name = "btnNovo";
-            this.btnNovo.Size = new System.Drawing.Size(97, 32);
+            this.btnNovo.Size = new System.Drawing.Size(141, 124);
             this.btnNovo.TabIndex = 10;
             this.btnNovo.Text = "&Novo";
             this.btnNovo.UseVisualStyleBackColor = true;
