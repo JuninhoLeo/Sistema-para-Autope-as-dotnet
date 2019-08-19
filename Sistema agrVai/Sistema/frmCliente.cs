@@ -31,35 +31,41 @@ namespace Sistema
             Camadas.Model.Clientes cliente = new Camadas.Model.Clientes();
             Camadas.BLL.Clientes bllCli = new Camadas.BLL.Clientes();
 
-            cliente.Nome = txtNome.Text;
-            cliente.Email = txtEmail.Text;
-            cliente.Telefone = txtTel.Text;
-            cliente.Endereco = txtEndereco.Text;
-            cliente.Num = Convert.ToInt32(txtNumero.Text);
-            cliente.CEP = txtCEP.Text;
-            cliente.Cidade = txtCidade.Text;
-            cliente.UF = txtUF.Text;
-            cliente.Nascimento = Convert.ToDateTime(txtNascimento.Text);
-            cliente.CPF = txtCPF.Text;
+            if (txtNome.Text != "")
+            {
+                cliente.Nome = txtNome.Text;
+                cliente.Email = txtEmail.Text;
+                cliente.Telefone = txtTel.Text;
+                cliente.Endereco = txtEndereco.Text;
+                cliente.Num = Convert.ToInt32(txtNumero.Text);
+                cliente.CEP = txtCEP.Text;
+                cliente.Cidade = txtCidade.Text;
+                cliente.UF = txtUF.Text;
+                cliente.Nascimento = Convert.ToDateTime(txtNascimento.Text);
+                cliente.CPF = txtCPF.Text;
 
-            if (rdbFem.Checked == true)
-                cliente.Sexo = "F";
-            
-            if (rdbMasc.Checked == true)
-                cliente.Sexo = "M";
-            
-            if (rdbNem.Checked == true)
-                cliente.Sexo = "";
+                if (rdbFem.Checked == true)
+                    cliente.Sexo = "F";
 
-           
-            bllCli.Insert(cliente);
+                if (rdbMasc.Checked == true)
+                    cliente.Sexo = "M";
 
-            LimpaCampos();
-            txtID.Text = "";
-            HabilitaCampos(false);
+                if (rdbNem.Checked == true)
+                    cliente.Sexo = "";
 
-            dgvClientes.DataSource = "";
-            dgvClientes.DataSource = bllCli.Select();
+
+                bllCli.Insert(cliente);
+
+                LimpaCampos();
+                txtID.Text = "";
+                HabilitaCampos(false);
+
+                dgvClientes.DataSource = "";
+                dgvClientes.DataSource = bllCli.Select();
+            }else
+            {
+
+            }
         }
 
         private void DgvClientes_DoubleClick(object sender, EventArgs e)
@@ -136,10 +142,11 @@ namespace Sistema
         private void BtnRemover_Click(object sender, EventArgs e)
         {
             HabilitaCampos(false);
-            btnAtualizar.Enabled = true;
-            btnNovo.Enabled = false;
-            btnInserir.Enabled = false;
-            btnRemover.Enabled = true;
+            btnModificar.Visible = false;
+            btnAtualizar.Visible = true;
+            btnNovo.Visible = false;
+            btnInserir.Visible = false;
+            btnRemover.Visible = true;
             txtID.Text = "-1";
         }
 
@@ -150,11 +157,11 @@ namespace Sistema
 
         private void HabilitaCampos(bool status)
         {
-            btnInserir.Enabled = status;
-            btnRemover.Enabled = status;
-            btnAtualizar.Enabled = status;
-            btnModificar.Enabled = !status;
-            btnNovo.Enabled = !status;
+            btnInserir.Visible = status;
+            btnRemover.Visible = status;
+            btnAtualizar.Visible = status;
+            btnModificar.Visible = !status;
+            btnNovo.Visible = !status;
 
             txtNome.Enabled = status;
             txtEmail.Enabled = status;
@@ -231,8 +238,8 @@ namespace Sistema
         private void BtnNovo_Click_2(object sender, EventArgs e)
         {
             HabilitaCampos(true);
-            btnAtualizar.Enabled = false;
-            btnRemover.Enabled = false;
+            btnAtualizar.Visible = false;
+            btnRemover.Visible = false;
         }
 
         private void Timer1_Tick(object sender, EventArgs e)

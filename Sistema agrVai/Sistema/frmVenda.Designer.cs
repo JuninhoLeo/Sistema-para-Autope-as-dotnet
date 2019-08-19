@@ -71,6 +71,7 @@
             this.lblReal = new System.Windows.Forms.Label();
             this.txtTimer = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.atualizar = new System.Windows.Forms.Button();
             this.gpbCliente.SuspendLayout();
             this.gpbDetalhe.SuspendLayout();
             this.gpbButon.SuspendLayout();
@@ -510,6 +511,7 @@
             this.txtTimer.Name = "txtTimer";
             this.txtTimer.Size = new System.Drawing.Size(135, 96);
             this.txtTimer.TabIndex = 10;
+            this.txtTimer.Click += new System.EventHandler(this.TxtTimer_Click);
             // 
             // timer1
             // 
@@ -517,11 +519,22 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.Timer1_Tick);
             // 
+            // atualizar
+            // 
+            this.atualizar.Location = new System.Drawing.Point(522, 64);
+            this.atualizar.Name = "atualizar";
+            this.atualizar.Size = new System.Drawing.Size(75, 23);
+            this.atualizar.TabIndex = 11;
+            this.atualizar.Text = "atualizar";
+            this.atualizar.UseVisualStyleBackColor = true;
+            this.atualizar.Click += new System.EventHandler(this.Atualizar_Click);
+            // 
             // frmVenda
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1370, 662);
+            this.Controls.Add(this.atualizar);
             this.Controls.Add(this.txtTimer);
             this.Controls.Add(this.lblReal);
             this.Controls.Add(this.lblTotal);
@@ -598,5 +611,6 @@
         private System.Windows.Forms.TextBox cmbQtde;
         private System.Windows.Forms.Label txtTimer;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button atualizar;
     }
 }

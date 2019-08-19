@@ -298,5 +298,15 @@ namespace Sistema
         {
             txtTimer.Text = DateTime.Now.ToString();
         }
+
+        private void Atualizar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtTimer_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

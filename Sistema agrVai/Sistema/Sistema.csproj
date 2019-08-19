@@ -231,6 +231,7 @@
     <None Include="Resources\new_add_insert_file_139481.png" />
     <None Include="Resources\new_add_insert_file_139482.png" />
     <None Include="Resources\new_add_insert_file_1.png" />
+    <None Include="Resources\search_window_filter_find_6168.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

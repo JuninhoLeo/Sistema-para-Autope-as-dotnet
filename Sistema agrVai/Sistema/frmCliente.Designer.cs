@@ -402,7 +402,7 @@
             // dgvClientes
             // 
             this.dgvClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvClientes.Location = new System.Drawing.Point(176, 350);
+            this.dgvClientes.Location = new System.Drawing.Point(222, 352);
             this.dgvClientes.Name = "dgvClientes";
             this.dgvClientes.Size = new System.Drawing.Size(1028, 282);
             this.dgvClientes.TabIndex = 1;
@@ -413,7 +413,7 @@
             // 
             this.btnNovo.BackgroundImage = global::Sistema.Properties.Resources.new_add_insert_file_1;
             this.btnNovo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNovo.Location = new System.Drawing.Point(688, 265);
+            this.btnNovo.Location = new System.Drawing.Point(996, 265);
             this.btnNovo.Name = "btnNovo";
             this.btnNovo.Size = new System.Drawing.Size(65, 69);
             this.btnNovo.TabIndex = 35;
@@ -424,7 +424,7 @@
             // 
             this.btnCancelar.BackgroundImage = global::Sistema.Properties.Resources.Cancel_icon_icons_com_73703;
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCancelar.Location = new System.Drawing.Point(1073, 265);
+            this.btnCancelar.Location = new System.Drawing.Point(1072, 265);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(65, 69);
             this.btnCancelar.TabIndex = 32;
@@ -435,7 +435,7 @@
             // 
             this.btnRemover.BackgroundImage = global::Sistema.Properties.Resources.recycle_recyclebin_full_delete_trash_1772;
             this.btnRemover.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRemover.Location = new System.Drawing.Point(842, 265);
+            this.btnRemover.Location = new System.Drawing.Point(916, 265);
             this.btnRemover.Name = "btnRemover";
             this.btnRemover.Size = new System.Drawing.Size(65, 69);
             this.btnRemover.TabIndex = 31;
@@ -446,7 +446,7 @@
             // 
             this.btnAtualizar.BackgroundImage = global::Sistema.Properties.Resources.refresh_file_icon_icons_com_69963;
             this.btnAtualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAtualizar.Location = new System.Drawing.Point(919, 265);
+            this.btnAtualizar.Location = new System.Drawing.Point(996, 265);
             this.btnAtualizar.Name = "btnAtualizar";
             this.btnAtualizar.Size = new System.Drawing.Size(65, 69);
             this.btnAtualizar.TabIndex = 10;
@@ -457,7 +457,7 @@
             // 
             this.btnModificar.BackgroundImage = global::Sistema.Properties.Resources.edit_icon_icons_com_66118;
             this.btnModificar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnModificar.Location = new System.Drawing.Point(996, 265);
+            this.btnModificar.Location = new System.Drawing.Point(916, 265);
             this.btnModificar.Name = "btnModificar";
             this.btnModificar.Size = new System.Drawing.Size(65, 69);
             this.btnModificar.TabIndex = 9;
@@ -468,7 +468,7 @@
             // 
             this.btnInserir.BackgroundImage = global::Sistema.Properties.Resources.new_add_user_16734__1_;
             this.btnInserir.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnInserir.Location = new System.Drawing.Point(765, 265);
+            this.btnInserir.Location = new System.Drawing.Point(994, 265);
             this.btnInserir.Name = "btnInserir";
             this.btnInserir.Size = new System.Drawing.Size(65, 69);
             this.btnInserir.TabIndex = 8;
